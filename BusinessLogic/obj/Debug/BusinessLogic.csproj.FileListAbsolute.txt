@@ -1,0 +1,9 @@
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Lập trình CSDL\LAB08_HONGPHUC\BusinessLogic\obj\Debug\BusinessLogic.pdb
